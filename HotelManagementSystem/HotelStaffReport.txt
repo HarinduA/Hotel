@@ -1,0 +1,29 @@
+===============================================
+         HOTEL STAFF DETAILED REPORT         
+===============================================
+
+MANAGERS:
+-------------------------------------------
+Staff ID: 12321
+Name: Harindu Adikari
+Date of Birth: 01/01/2025
+License Number: 123456789
+-------------------------------------------
+
+CHEFS:
+-------------------------------------------
+No chefs currently employed.
+-------------------------------------------
+
+HOUSEKEEPERS:
+-------------------------------------------
+No housekeepers currently employed.
+-------------------------------------------
+
+OTHER STAFF MEMBERS:
+-------------------------------------------
+No other staff members currently employed.
+-------------------------------------------
+
+Total number of staff members: 1
+Report generated on: 2025-07-03
